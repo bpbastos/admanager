@@ -1,4 +1,5 @@
 ****Pequena aplicação para gerenciar algumas funções do Active Directory.  Utiliza PHP + Yii2 + Docker.****
+****OBS.: Implementado apenas a troca de senha inicialmente.****
 
 Definir os seguintes parametros em config\web.php:
 
